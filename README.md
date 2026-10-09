@@ -77,7 +77,9 @@ The application source code is proprietary. The case study does not publish conf
 
 **IBM | September 2017 – April 2023 | 5 years, 8 months**
 
-My IBM career covered five positions across enterprise operations, business analysis, information security, audit and compliance, and product management.
+My career at IBM spanned nearly six years and five progressively evolving roles, from enterprise data operations and financial systems to critical incident management, information security, audit and compliance, and product management.
+
+This experience provided a strong foundation in enterprise technology, cross-functional collaboration, operational reliability, security governance, and the coordination of complex systems and services in a global corporate environment.
 
 ### Product Manager / Product Owner
 
