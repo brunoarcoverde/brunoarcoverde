@@ -1,4 +1,5 @@
 # Bruno Arcoverde Diniz
+<img width="1182" height="684" alt="image" src="https://github.com/user-attachments/assets/23c80e7a-c486-4090-85ab-b44f1ca117cb" />
 
 ### Software Engineer | Full-Stack Development | Enterprise IT | Security & Compliance | Product Management
 
