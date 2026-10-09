@@ -1,178 +1,267 @@
 # Bruno Arcoverde Diniz
 
-### Software Engineer | Full-Stack & Enterprise Systems | Technology Leadership
+### Software Engineer | Full-Stack Development | Enterprise IT | Security & Compliance | Product Management
 
-Software Engineer with experience spanning enterprise systems, infrastructure, security & compliance, product leadership, and modern full-stack development.
+Software Engineer with a professional background spanning enterprise technology, information security, audit and compliance, product management, incident response, and modern full-stack software development.
 
-Currently developing **REMAR Acolhimento**, a social care management platform for **Remar Brasil**, designed to support real-world operational and care-management processes across web and mobile environments.
+My career includes **5 years and 8 months at IBM**, where I progressed through five positions involving financial operations, enterprise systems, infrastructure, incident command, security and compliance, and product management.
 
-My professional background includes more than five years at **IBM**, where I worked across systems and infrastructure analysis, incident management, security and compliance, and product management for business-critical enterprise applications.
+I also bring over **10 years of technical support and infrastructure experience in the United States**.
 
-Today, I combine that enterprise background with hands-on software engineering using modern web technologies, with a focus on building reliable, maintainable, and scalable applications.
+Today, I am responsible for the full-stack engineering of **REMAR Acolhimento**, a social care management platform developed for Associação Remar do Brasil.
 
----
-
-## 🚀 Current Focus
-
-My current work is centered on full-stack software engineering and the development of REMAR Acolhimento.
-
-**Core technologies and areas:**
-
-- Node.js / Express
-- Vue 3 / Quasar
-- PostgreSQL
-- Prisma ORM
-- REST APIs
-- JWT authentication and application security
-- Automated testing
-- Docker
-- Web application architecture
-- Android & iOS application architecture
-- Database design and migration
-- Software architecture and maintainability
+I combine hands-on software engineering with a broader understanding of business requirements, security, operational reliability, and the complete software lifecycle.
 
 ---
 
-## 🏗️ Current Project
+## 🚀 Current Focus — Software Engineering
 
-### REMAR Acolhimento
-**Social Care Management Platform — Remar Brasil**
+My current work focuses on developing and evolving REMAR Acolhimento, a full-stack platform supporting institutional care-management operations.
 
-REMAR Acolhimento is a full-stack platform being developed to support the operational and care-management processes of **Remar Brasil**, a Brazilian nonprofit organization.
+**Core technologies:**
 
-The project involves the design and development of a modern application ecosystem intended to support **web, Android, and iOS** environments.
+- JavaScript, Node.js, Express
+- Vue 3, Quasar, Vite
+- PostgreSQL, Prisma ORM
+- REST API design and integration
+- JWT authentication and role-based access control
+- Relational database design and migrations
+- Automated backend testing
+- DigitalOcean cloud infrastructure
+- Git and GitHub
 
-My work includes areas such as:
+My responsibilities include frontend and backend development, architecture, database engineering, security controls, technical validation, deployment configuration, and ongoing product evolution.
 
-- Application architecture
-- Backend and API development
-- Frontend development
-- Relational database design
-- Authentication and authorization
-- Business rules and data validation
-- Automated testing
-- Containerized development environments
-- Database evolution and migrations
-- Technical documentation
-- Software quality and maintainability
-
-A dedicated public case study will document the project's architecture, engineering decisions, functionality, diagrams, workflows, and demonstration mockups.
-
-> The public case study will not contain proprietary source code, credentials, confidential information, or real user data. Demonstration screens and data will be created specifically for portfolio purposes.
+I use AI-assisted development tools, including Cursor and ChatGPT, while retaining responsibility for technical decisions, implementation review, integration, and validation.
 
 ---
 
-## 🏢 Enterprise Background
+## 🏗️ Featured Project — REMAR Acolhimento
 
-Before focusing on modern full-stack engineering, I built extensive experience working with enterprise technology and business-critical systems.
+**Full-Stack Social Care Management Platform**
 
-During more than five years at **IBM**, I worked in multiple roles involving systems, infrastructure, production operations, security, compliance, incident management, and product/services leadership.
+**Organization:** Associação Remar do Brasil  
+**Role:** Software Engineer | Sole Full-Stack Developer  
+**Status:** Active development and product evolution
 
-My enterprise background includes experience with:
+REMAR Acolhimento is a software platform designed to support institutional operations, residential care management, and workflows across organizational units.
 
-- Product Management / Product Ownership
-- Technology roadmap planning
-- Production changes, updates, and patches
-- Business-critical enterprise applications
-- Cross-functional and global teams
-- Stakeholder management
-- System Audit, Security & Compliance
-- Audit readiness and business controls
-- Production incident management
-- Incident Command
-- Systems and infrastructure analysis
-- IBM enterprise and mainframe environments
-- DB2
-- MVS
-- QMF
-- SQL
-- Process improvement
-- Project and delivery coordination
+The platform includes functionality involving:
 
-I have also worked with audit and compliance activities involving financially significant applications and environments subject to corporate and external audit requirements.
+- People receiving care and institutional records
+- Admissions and care history
+- Transfers between organizational units
+- Documents and contact information
+- Health-related records and change history
+- Events and operational activities
+- Organizational units and capacity management
+- Users, roles, and permissions
+- Operational dashboards
 
----
+The architecture uses a Vue and Quasar frontend, Node.js and Express backend, and PostgreSQL database with Prisma ORM.
 
-## 🔄 From Enterprise Systems to Modern Software Engineering
+The product's future roadmap includes expanded operational capabilities and Android/iOS delivery.
 
-My career has given me the opportunity to work with technology from several perspectives:
+### Explore the Technical Case Study
 
-**Technical Support → Systems & Infrastructure → Business Analysis → Incident Management → Security & Compliance → Product Management → Full-Stack Software Engineering**
+**[REMAR Acolhimento — Software Engineering Case Study](https://github.com/brunoarcoverde/remar-acolhimento-case-study)**
 
-That experience influences how I approach software development today.
+The public repository includes English and Portuguese documentation covering architecture, technology choices, infrastructure, security, database engineering, and product evolution.
 
-I don't see software only as code. I consider the complete lifecycle of a system: architecture, security, data, operations, maintainability, users, business requirements, production reliability, and long-term evolution.
+The application source code is proprietary. The case study does not publish confidential code, credentials, or real institutional records.
 
 ---
 
-## 🧰 Technology
+## 🏢 Professional Experience — IBM
 
-### Current Stack
+**IBM | September 2017 – April 2023 | 5 years, 8 months**
 
-`JavaScript` • `Node.js` • `Express` • `Vue.js` • `Vue 3` • `Quasar` • `PostgreSQL` • `Prisma` • `REST APIs` • `JWT` • `Docker` • `Git` • `GitHub`
+My IBM career covered five positions across enterprise operations, business analysis, information security, audit and compliance, and product management.
 
-### Enterprise & Previous Experience
+### Product Manager / Product Owner
 
-`IBM Mainframe` • `MVS` • `DB2` • `QMF` • `SQL` • `Systems Analysis` • `Infrastructure` • `Incident Management` • `Security` • `Compliance` • `Product Management`
+**August 2022 – April 2023**
 
-### Engineering Interests
+Responsible for product and service delivery coordination, application roadmaps, stakeholder communication, prioritization, governance, and continuous improvement.
 
-`Software Architecture` • `Full-Stack Development` • `Backend Engineering` • `Database Design` • `Application Security` • `Automated Testing` • `Web Applications` • `Mobile Applications`
+Key responsibilities included:
+
+- Planning and coordinating annual application roadmaps with multiple team leaders
+- Organizing application updates, security patches, and major changes
+- Working with offering teams, managers, and global stakeholders
+- Prioritizing team workloads and coordinating dependencies
+- Overseeing significant application changes
+- Managing project risks and delivery concerns
+- Reporting progress through operational meetings
+- Supporting delivery quality, schedules, and budget objectives
+
+### Specialist in System Audit, Security and Compliance
+
+**June 2021 – August 2022**
+
+Served as an Audit & Compliance focal point for financially significant enterprise applications and supported environments.
+
+Responsibilities included:
+
+- Supporting audit readiness and compliance activities
+- Reviewing business controls and security-related processes
+- Ensuring alignment with IBM and client security policies
+- Creating and maintaining audit documentation
+- Supporting audit requirements involving FinSIG, SOC, ASCA, and PwC
+- Coordinating compliance-related activities across supported accounts and services
+
+### Systems, Infrastructure and Business Analyst / Incident Commander
+
+**April 2019 – June 2021**
+
+Worked with complex systems supporting IBM Global Financing operations.
+
+Responsibilities included:
+
+- Diagnosing and resolving complex systems and infrastructure issues
+- Monitoring enterprise applications and infrastructure
+- Identifying opportunities for system improvements and security enhancements
+- Investigating problems across interconnected systems and data centers
+- Acting as Incident Commander during critical system incidents
+- Coordinating responses to network, storage, server, application, and software failures
+- Supporting timely restoration of business-critical services
+
+### Accounts Payable Analyst
+
+**August 2018 – April 2019**
+
+Worked with financial operations, payment processing, reconciliation, reporting, and process improvement.
+
+Responsibilities included monitoring financial transactions, maintaining records, producing operational reports, and coordinating with technical support teams to maintain system integrity.
+
+### Intern — Global Sales Incentives
+
+**September 2017 – August 2018**
+
+Worked with enterprise databases, systems, data analysis, and operational processes.
+
+Responsibilities included:
+
+- Monitoring and validating databases and enterprise systems
+- Creating and optimizing SQL queries for data analysis
+- Supporting system performance and data integrity
+- Reviewing access requirements for systems and databases
+- Consolidating information for operational planning
+
+---
+
+## 🖥️ Earlier Experience — Greenbow Tour Transportation
+
+**Senior Technical Support Analyst**  
+**Orlando, Florida, USA | August 2004 – December 2014**
+
+Over 10 years of technical support and infrastructure responsibilities, including:
+
+- Database administration and maintenance
+- VPN and company intranet configuration
+- Software and hardware installation
+- Workstation configuration and troubleshooting
+- Infrastructure support and daily technical operations
+
+This experience established a foundation in technical troubleshooting, systems administration, and business technology support.
+
+---
+
+## 🔄 From Enterprise Technology to Software Engineering
+
+My professional journey has involved multiple areas of technology:
+
+**Technical Support → Enterprise Systems → Infrastructure & Business Analysis → Incident Command → Security & Compliance → Product Management → Full-Stack Software Engineering**
+
+These experiences influence how I approach development today.
+
+I consider not only the implementation of software, but also its security, reliability, operational impact, business requirements, maintainability, and long-term evolution.
+
+---
+
+## 🧰 Technical Skills & Professional Competencies
+
+### Modern Software Engineering
+
+`JavaScript` · `Node.js` · `Express` · `Vue 3` · `Quasar` · `Vite` · `PostgreSQL` · `Prisma ORM` · `REST APIs` · `JWT` · `RBAC` · `Git` · `GitHub` · `Automated Testing` · `DigitalOcean`
+
+### Enterprise Systems & Infrastructure
+
+`IBM Mainframe` · `z/OS` · `MVS` · `DB2` · `JCL` · `RACF` · `SDSF` · `QMF` · `SQL` · `Red Hat Linux` · `ServiceNow` · `PagerDuty`
+
+### Security, Compliance & Operations
+
+`Information Security` · `System Audit` · `Compliance` · `Audit Readiness` · `Business Controls` · `Incident Management` · `Incident Command` · `Systems Analysis` · `Infrastructure Operations`
+
+### Product & Business
+
+`Product Management` · `Product Ownership` · `Roadmap Planning` · `Stakeholder Management` · `Workload Prioritization` · `Change Management` · `Risk Management` · `Cross-Functional Collaboration` · `Continuous Improvement`
 
 ---
 
 ## 🎓 Education
 
 **Bachelor's Degree — Information Systems Technology**  
-La Salle - RJ University  
-Brazil
+La Salle — Rio de Janeiro, Brazil
 
 **Associate in Science (A.S.) — Computer Science**  
-Valencia College  
-United States
+Valencia College — United States
 
 ---
 
 ## 🌎 International Background
 
-I am fluent in both **English and Portuguese**.
+Fluent in **English and Portuguese**.
 
-I lived in the **United States for approximately 25 years**, where I studied, worked, and developed native-level professional English communication skills.
+I lived in the United States for approximately 25 years, where I studied and worked, developing extensive experience communicating in English in professional and technical environments.
 
-I am comfortable working with international, distributed, and cross-functional teams in either English or Portuguese.
+My background includes collaboration with global teams, international stakeholders, and cross-functional groups.
 
 ---
 
-## 📚 Continuous Learning
+## 📚 Engineering Philosophy
 
-Technology has been a constant part of my professional journey, from enterprise and mainframe environments to cloud concepts, product management, security and compliance, and today's modern full-stack ecosystem.
+My experience across enterprise systems, security, compliance, product management, and software development has reinforced a practical engineering principle:
 
-I believe strong engineering comes not only from knowing technologies, but from understanding how systems behave in production, how users depend on them, and how technical decisions affect a product throughout its lifecycle.
+**Reliable software requires more than functional code.**
+
+It requires an understanding of users, business processes, security, data integrity, production operations, and the consequences of technical decisions.
+
+I continue expanding my hands-on engineering skills while applying the broader enterprise perspective developed throughout my career.
 
 ---
 
 ## 📌 Portfolio
 
-This GitHub profile is currently being expanded with technical case studies and documentation of my current software engineering work.
+### REMAR Acolhimento
 
-### Coming next
+**[View the Software Engineering Case Study](https://github.com/brunoarcoverde/remar-acolhimento-case-study)**
 
-- **REMAR Acolhimento — Full Case Study**
-- System architecture diagrams
-- Application workflows
-- Technical decisions and engineering challenges
-- Web and mobile UI mockups
-- Database and API architecture
-- Testing strategy
-- Security architecture
-- Engineering lessons learned
+Available documentation includes:
+
+- Full-stack system architecture
+- Frontend and backend structure
+- Database engineering and migrations
+- Authentication and authorization
+- Cloud infrastructure
+- Automated testing approach
+- Product evolution roadmap
+
+**Portfolio enhancements planned:**
+
+- Demonstration UI mockups using fictional data
+- Feature walkthroughs
+- Additional architecture diagrams
+- Engineering decisions and technical challenges
 
 ---
 
 ## 🤝 Let's Connect
 
-I am interested in opportunities involving **Software Engineering, Full-Stack Development, Backend Engineering, Enterprise Systems, and technology-focused roles** where my combination of hands-on engineering and enterprise experience can add value.
+Interested in professional opportunities involving:
+
+**Software Engineering · Full-Stack Development · Backend Engineering · Enterprise Systems · Security & Compliance · Technology-Focused Product Roles**
 
 **Languages:** English 🇺🇸 | Portuguese 🇧🇷  
 **Location:** Brazil  
-**Open to:** Brazilian and international opportunities
+**Opportunities:** Brazil and international markets
